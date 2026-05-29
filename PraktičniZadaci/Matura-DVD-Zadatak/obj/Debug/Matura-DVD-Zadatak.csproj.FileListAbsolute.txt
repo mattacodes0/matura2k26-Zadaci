@@ -1,0 +1,10 @@
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\bin\Debug\Matura-DVD-Zadatak.exe.config
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\bin\Debug\Matura-DVD-Zadatak.exe
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\bin\Debug\Matura-DVD-Zadatak.pdb
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\obj\Debug\Matura-DVD-Zadatak.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\obj\Debug\Matura_DVD_Zadatak.Form1.resources
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\obj\Debug\Matura_DVD_Zadatak.Properties.Resources.resources
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\obj\Debug\Matura-DVD-Zadatak.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\obj\Debug\Matura-DVD-Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\obj\Debug\Matura-DVD-Zadatak.exe
+C:\Users\korisnik\source\repos\Matura-DVD-Zadatak\obj\Debug\Matura-DVD-Zadatak.pdb
